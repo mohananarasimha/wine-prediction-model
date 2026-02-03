@@ -1,4 +1,4 @@
-#!/Users/user/Documents/Personal/wine_prediction_demo/.venv/bin/python3.12
+#!/Users/user/Personal/wine_prediction_demo/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
