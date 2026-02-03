@@ -3,3 +3,4 @@ outs:
   size: 406
   hash: md5
   path: wine_sample.csv
+clear
